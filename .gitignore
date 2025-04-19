@@ -1,0 +1,5 @@
+maps/*
+!maps/.gitkeep
+__pycache__/
+curl.txt
+esp.txt
