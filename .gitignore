@@ -1,5 +1,5 @@
 maps/*
-!maps/.gitkeep
+!maps/maps.txt
 __pycache__/
 curl.txt
 esp.txt
